@@ -27,4 +27,3 @@ finally:
     for key, value in sorted(STATUS.items()):
             if value != 0:
                 print("{}: {:d}".format(key, value))
-          
